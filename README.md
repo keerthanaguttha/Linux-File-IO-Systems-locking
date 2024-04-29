@@ -18,6 +18,7 @@ Write the C Program using Linux IO Systems locking
 Execute the C Program for the desired output. 
 
 # PROGRAM:
+```
 Name   : Guttha Keerthana
 Reg No : 212223240045
 ## 1.To Write a C program that illustrates files copying 
@@ -75,7 +76,7 @@ getchar();
 close (fd);
 return 0;
 }
-
+```
 ## OUTPUT
 1. Output of C program that illustrates files copying:
 
